@@ -1,9 +1,8 @@
-/* eslint-disable */
 import "bootstrap";
 import "./style.css";
 
 import "./assets/img/4geeks.ico";
-
+/*  
 window.onload = function() {
   //Variable para los palos de la baraja
   const palos = ["heart", "spade", "diamond", "club"];
@@ -41,3 +40,4 @@ window.onload = function() {
   //PARA
   console.log();
 };
+*/
