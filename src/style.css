@@ -1,1 +1,29 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+.card {
+  width: 150px;
+  height: 200px;
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  position: relative;
+  text-align: center;
+}
+/* Estilos específicos para cada palo */
+.spade {
+  color: black;
+}
+.club {
+  color: black;
+}
+.heart {
+  color: red;
+}
+.diamond {
+  color: red;
+}
