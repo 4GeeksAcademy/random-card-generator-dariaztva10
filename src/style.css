@@ -46,6 +46,8 @@ body {
 }
 
 .center {
-  font-weight: bold;
-  font-size: 70px;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 90px;
 }
