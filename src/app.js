@@ -54,4 +54,7 @@ window.onload = function() {
   //Crear un evento nuevo
   const boton1 = document.getElementById("generateCard");
   boton1.addEventListener("click", generarCarta);
+
+  // Configurar el temporizador para actualizar la carta cada 3 segundos
+  setInterval(generarCarta, 3000); // 3000 milisegundos = 3 segundos
 };
